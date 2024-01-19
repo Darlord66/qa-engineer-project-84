@@ -1,4 +1,14 @@
-name: Veronika Yasherova
+---
+name: Veronica Yasherova
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io               
+email: jaylode42@gmail.com
+description: |
+  Доктор Хаус - один из лучших сериалов
+
+skills:
+  - функциональное тестирование
+  - написание багрепортов
+  - составление sql-запросов
+  - слепая печать
+  - регрессионное тестирование
