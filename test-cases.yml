@@ -7,7 +7,7 @@
     - Открыть DevTools нажав на F12
     - Нажать Ctrl + Shift + M
     - Вверху в "Dimensions" выбрать любое мобильное устройство
- expected-result: |
+  expected-result: |
     Мобильная версия сайта корректно отображается
 
 - summary: |
