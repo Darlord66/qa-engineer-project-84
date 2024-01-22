@@ -11,39 +11,39 @@ summary: |
 Проверка удаления товара из корзины
 status: pass
 
-- summary: |
+summary: |
 Проверка отображения товаров в указанном ценовом диапазоне
 status: fail
 
-- summary: |
+summary: |
 Проверка открытия карточки товара
 status: pass
 
-- summary: |
+summary: |
 Проверка перехода на главную страницу по клику на "Hexlet Store" из баннера
 status: fail
 
-- summary: |
+summary: |
 Проверка поиска существующих товаров по ключевому слову
 status: pass
 
-- summary: |
+summary: |
 Проверка поиска несуществующих товаров
 status: pass
 
-- summary: |
+summary: |
 Проверка возможности увеличения количества товаров в корзине
 status: fail
 
-- summary: |
+summary: |
 Проверка добавления товара в корзину из карточки товара
 status: pass
 
-- summary: |
+summary: |
 Проверка перехода на окно оплаты при оформлении заказа
 status: fail
 
-- summary: |
+summary: |
 Проверка отсутствия возможности оформить заказ с пустой корзиной
 status: pass
 
