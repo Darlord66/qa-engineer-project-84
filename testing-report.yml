@@ -1,15 +1,15 @@
 ---
 - summary: |
     Проверка наличия мобильной версии сайта
- status: fail
+  status: fail
 
 - summary: |
     Проверка добавления товара в корзину
- status: pass
+  status: pass
 
 - summary: |
     Проверка удаления товара из корзины
- status: pass
+  status: pass
 
 - summary: |
     Проверка отображения товаров в указанном ценовом диапазоне
