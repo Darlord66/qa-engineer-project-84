@@ -4,7 +4,7 @@
   requirement: |
     Сайт должен иметь мобильную версию
   prerequisites: |
-    Открыта страница https://hexlet-products-store.vercel.app/
+    Empty
   test-data: |
     Отсутствуют
   steps:
@@ -19,7 +19,7 @@
   requirement: 
     Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины
   prerequisites:
-    Открыта страница https://hexlet-products-store.vercel.app/
+    Empty
   test-data: |
     Отсутствуют
   steps:
@@ -47,7 +47,7 @@
   requirement: |
     Пользователь должен иметь возможность указывать желаемый диапазон цены для поиска товаров на сайте
   prerequisites:
-    Открыта страница https://hexlet-products-store.vercel.app/
+    Empty
   test-data: |
     Отсутствуют
   steps:
@@ -61,7 +61,7 @@
   requirement: |
     Пользователь должен иметь возможность просматривать товары и просматривать подробную информацию о товаре
   prerequisites:
-    Открыта страница https://hexlet-products-store.vercel.app/
+    Empty
   test-data: |
     Отсутствуют
   steps:
@@ -87,7 +87,7 @@
   requirement: |
     Пользователь должен иметь возможность искать товары по ключевому слову или категории
   prerequisites:
-    Открыта страница https://hexlet-products-store.vercel.app/
+    Empty
   test-data: |
     Отсутствуют
   steps:
@@ -100,7 +100,7 @@
   requirement: |
     Пользователь должен иметь возможность искать товары по ключевому слову или категории
   prerequisites:
-    Открыта страница https://hexlet-products-store.vercel.app/
+    Empty
   test-data: |
     Отсутствуют
   steps:
@@ -113,7 +113,7 @@
   requirement: |
     Пользователь может изменять количество товаров в корзине
   prerequisites:
-    Открыта страница https://hexlet-products-store.vercel.app/
+    Empty
   test-data: |
     Отсутствуют
   steps:
@@ -129,7 +129,7 @@
   requirement: |
     Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины
   prerequisites:
-    Открыта страница https://hexlet-products-store.vercel.app/
+    Empty
   test-data: |
     Отсутствуют
   steps:
@@ -171,7 +171,7 @@
   requirement: |
     Пользователь может фильтровать товары по рейтингу
   prerequisites:
-    Открыта страница https://hexlet-products-store.vercel.app/
+    Empty
   test-data: |
     Отсутствуют
   steps:
